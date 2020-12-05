@@ -1,7 +1,6 @@
 import mvc_exceptions as mvc_exc
 import time
 
-
 class Controller(object):
 
     def __init__(self, model, view):
