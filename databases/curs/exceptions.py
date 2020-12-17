@@ -1,0 +1,4 @@
+
+
+class InvalidLimit(Exception):
+    pass
